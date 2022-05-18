@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=2cracer2&label=PROFILE+VIEWS)
+
 ### Hi there 👋
 
 <!--
@@ -17,4 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2cracer2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2cracer2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</center>
+
