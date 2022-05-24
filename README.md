@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=2cracer2&label=PROFILE+VIEWS)
+![](https://img.shields.io/badge/10cracer-01-blueviolet)
 
 ### Hi there 👋
+
+
 
 <!--
 **2cracer2/2cracer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white),![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
+- 🌱 I’m currently learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 <p align="center">
