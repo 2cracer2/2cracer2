@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=2cracer2&label=PROFILE+VIEWS)
-![](https://img.shields.io/badge/10cracer-01-blueviolet)
+![](https://img.shields.io/badge/2cracer-2-blueviolet)
 
 ### Hi there 👋
 ---
@@ -38,12 +38,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
-
 
 
 <p align="center">
-    <p>Github Stats ⚡</p>
+    <h3> Github Stats ⚡</h3>
     <img src = "https://github-readme-stats.vercel.app/api?username=2cracer2&show_icons=true&theme=radical&hide_border=true&count_private=true">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=2cracer2&hide=html,css&theme=yeblu&layout=compact&count_private=true&langs_count=8">
 </p>
