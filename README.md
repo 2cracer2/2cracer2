@@ -40,8 +40,19 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<!-- <p align="center">
     <h3> Github Stats ⚡</h3>
     <img src = "https://github-readme-stats.vercel.app/api?username=2cracer2&show_icons=true&theme=radical&hide_border=true&count_private=true">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=2cracer2&hide=html,css&theme=yeblu&layout=compact&count_private=true&langs_count=8">
+</p>
+ -->
+
+<p align="center">
+  <h3> Github Stats ⚡</h3>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2cracer2&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cracer2&theme=react&hide=html,css,dockerfile,shell,ejs,stylus&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  
+</p>
+<p align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=2cracer2&theme=github"/>
 </p>
