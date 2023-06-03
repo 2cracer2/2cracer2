@@ -54,6 +54,5 @@ Here are some ideas to get you started:
   
 </p>
 <p align="center">
-    <img src = "./profile-3d-contrib/profile-green-animate.svg">
-    ./profile-3d-contrib/profile-night-view.svg
+    <img src = "./profile-3d-contrib/profile-night-view.svg">
 </p>
