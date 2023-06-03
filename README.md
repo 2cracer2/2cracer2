@@ -54,5 +54,5 @@ Here are some ideas to get you started:
   
 </p>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=2cracer2&theme=github"/>
+![](./profile-3d-contrib/profile-green-animate.svg)
 </p>
